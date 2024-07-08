@@ -1,0 +1,26 @@
+{
+  "name": "quizzer",
+  "version": "1.0.0",
+  "description": "online",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prabhatsingh985/Quiz.git"
+  },
+  "keywords": [
+    "quiz"
+  ],
+  "author": "Quizzer Team",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prabhatsingh985/Quiz.git"
+  },
+  "homepage": "https://github.com/prabhatsingh985/Quiz.git",
+  "dependencies": {
+    "firebase": "^7.5.2",
+    "nodemailer": "^6.4.2"
+  }
+}
